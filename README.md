@@ -15,7 +15,8 @@ Construção, com **445 testes automatizados** e CI no GitHub Actions obrigatór
 | Projeto | O que é | Stack |
 |---|---|---|
 | **LC-ecommerce** 🔒 | E-commerce full-stack da Loja da Construção: loja, painel admin e API. 445 testes (pytest + Vitest), CI com 4 jobs paralelos, JWT em cookie HTTP-only + CSRF | React, Vite, Flask, SQLAlchemy, PostgreSQL, Docker, Nginx |
-| [**Contagem de Estoque**](https://github.com/YagoOliveira852/Contagem-estoque-LC) · [demo](https://yagooliveira852.github.io/Contagem-estoque-LC/) | App web para celular: escaneia o código de barras, compara a contagem com o estoque do sistema e mostra o ajuste a fazer no SysPDV | React, Google Apps Script, GitHub Pages |
+| **PWA de Estoque** 🔒 | App de celular em uso diário na loja: consulta de preço e estoque pelo código de barras, contagem de inventário offline e painel de vendas para os donos. Um agente em Python sincroniza o ERP com o Supabase a cada 5 min | React, TypeScript, Supabase, PostgreSQL, Python |
+| **ModLink** 🔒 | Plataforma web em produção para monitoramento de dados de saneamento, integrada a um dispositivo IoT em campo (mais de 20 indicadores a cada 5 min), com gráficos, acesso por perfil e exportação em CSV | Python, Flask, Google Cloud (Cloud Run, Firestore, Cloud Scheduler), Auth0, Docker |
 | [**Cantina Conecta**](https://github.com/YagoOliveira852/Cantina-Conecta) | App mobile que digitaliza o caderninho de lanches de cantinas escolares (em dupla) | React Native (Expo), Flask, SQLite |
 | [**StressCalendar**](https://github.com/YagoOliveira852/StressCalendar) | TCC (nota 10): app mobile para registrar e acompanhar o nível de estresse | React Native |
 | [**Sistemas Distribuídos**](https://github.com/YagoOliveira852/Sistemas-Distribuidos) | Casa inteligente com dispositivos conversando por broker de mensagens, chat TCP e calculadora UDP (UFC) | Python, RabbitMQ, Protobuf, sockets |
