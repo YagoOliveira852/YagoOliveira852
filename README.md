@@ -48,3 +48,4 @@ Construção, com **445 testes automatizados** e CI no GitHub Actions obrigatór
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yago-costa-oliveira)
+[![E-mail](https://img.shields.io/badge/yago.costa852@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:yago.costa852@gmail.com)
